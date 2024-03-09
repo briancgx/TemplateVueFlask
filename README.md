@@ -1,4 +1,4 @@
-# TemplateHackaton_2
+# Template_2
 
 Dentro de backend (para crear el entorno):
 source venv/bin/activate
